@@ -1,5 +1,5 @@
 # BIG
-[Galactica Network]{https://galactica.com/links}
+[github]{https://github.com/}
 
 1. 'test1'
 2. ''test2''
