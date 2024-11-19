@@ -1,5 +1,5 @@
 # BIG
-[Galactica]{https://galactica.com/links}
+[Galactica Network]{https://galactica.com/links}
 ## NORMAL
 ### SMALL
 
