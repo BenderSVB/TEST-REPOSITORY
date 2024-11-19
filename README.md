@@ -5,8 +5,8 @@ Hi friends. this is a test!</br>
 but you can follow the link above!
 
 ### SMALL
-.exmple 1
-.exmple 2
-.exmple 3
+- exmple 1
+- exmple 2
+- exmple 3
 
 TEST-REPOSITORY
