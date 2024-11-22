@@ -6,7 +6,7 @@
 3. _test3_
 ## NORMAL
 
-Hi friends.this is a test! </br>
+hi friend, this is a GitHub test page </br>
 but you can follow the link above!
 
 ### SMALL
